@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Agriculture",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710336496/BQ/agriculture.png"
+  },
+  {
+    "name": "Commerce",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405683/BQ/commerce.png"
+  },
+  {
+    "name": "Sports",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405695/BQ/sports.png"
+  },
+  {
+    "name": "Adventure",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405704/BQ/adventure.png"
+  },
+  {
+    "name": "Pet",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405711/BQ/pet.png"
+  },
+  {
+    "name": "Travel",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405718/BQ/travel.png"
+  },
+  {
+    "name": "MMA",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405725/BQ/mma.png"
+  },
+  {
+    "name": "Hunting",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405731/BQ/hunting.png"
+  },
+  {
+    "name": "Photography",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405738/BQ/photography.png"
+  },
+  {
+    "name": "Culture",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405750/BQ/culture.png"
+  },
+  {
+    "name": "Cars",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405762/BQ/cars.png"
+  },
+  {
+    "name": "Fashion",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405767/BQ/fashion.png"
+  },
+  {
+    "name": "Enginering",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405772/BQ/enginerring.png"
+  },
+  {
+    "name": "Workout",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405787/BQ/workout.png"
+  },
+  {
+    "name": "Horticulture",
+    "image": "https://res.cloudinary.com/demmgc49v/image/upload/v1710405797/BQ/horticulture.png"
+  }
+]
